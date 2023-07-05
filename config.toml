@@ -1,4 +1,11 @@
-baseURL = "http://example.org/"
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.115.1"
+
+
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
