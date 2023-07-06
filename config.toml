@@ -37,28 +37,28 @@ name = "Contact"
 url = "#contact"
 weight = 8
 
-# Sitemap Menu
+# Sitemap Menu for use cases
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Sentiment and Behavioral Analysis"
+url = "#"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
+name = "Conversational System"
 url = "#"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
+name = "Predictive Modeling"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Product Recommendation"
 url = "#"
 weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © shielaj 2023"
 footerLogo = "images/contact/widget-logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"
@@ -66,13 +66,13 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+address = "Pateros Sto Rosario Metro Manila"
+email = "shejz.projects@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+phone = "+(63) 936 7766 932"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
+APIkey = "vOFlx6tTGZlFBiW4VEq4"
 latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
@@ -80,17 +80,18 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/icreatesolutions.tech"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/shana-jimenez-a5b475195/"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fa-instagram"
+url = "https://www.instagram.com/io_oicreate/"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
+icon = "fa-github"
+url = "https://github.com/shejz"
 weight = 4
+
