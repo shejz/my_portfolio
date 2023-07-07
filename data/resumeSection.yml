@@ -4,55 +4,82 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
+  With expertise in digital marketing and data analytics. I possess a strong command of analytics tools and techniques. By diving deep into data, 
+  I uncover valuable insights that fuel effective marketing strategies, 
+  
+  improve customer targeting, and deliver tangible business outcomes.
+tab1Name: Data Competitions
 tab2Name: Experiences
 tab1Target: education
 tab2Target: experience
 
+
 education:
   - content: >
-      #### Master in Arts
+      #### Toxic Comment Classification
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Identify and classify toxic online comments.
+      [🔗 ](https://github.com/shejz/Toxic-Comment-Classification-Challenge)
+    time: December 2017
   - content: >
-      #### Master in Arts
+      #### Fraud Detection
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Detect fraudulent click traffic for mobile app ads. 
+      [🔗 ](https://github.com/shejz/TalkingData-AdTracking-Fraud-Detection)
+    time: March 2018
   - content: >
-      #### Master in Arts
+      #### Santander Value Prediction
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Predict the value of transactions for potential customers. 
+      [🔗 ](https://github.com/shejz/Santander-Value-Prediction)
+    time: June 2018
   - content: >
-      #### Master in Arts
+      #### Elo Merchant Category Recommendation
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Help understand customer loyalty.
+      [🔗 ](https://github.com/shejz/Elo-Merchant-Category-Recommendation)
+    time: November 2018
+    
+  - content: >
+      #### Quora Insincere Questions Classification
+
+      Detect toxic content to improve online conversations.
+      [🔗 ](https://github.com/shejz/Quora-Insincere-Questions-Classification)
+    time: November 2018  
+    
+ 
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Lumina Homes. 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Developing visually captivating and informative animated video advertisements that showcase real estate properties, attract potential buyers, and promote services in a compelling and engaging way.
+    time: April 2023 - May 2023
   - content: >
-      #### Aperture Science 
+      #### Rkitchen Food. 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Create engaging and persuasive video content that effectively promotes the delicious gourmet brand. Capture the attention of the target audience and drive desired actions, such as sales or brand awareness.
+    time: Nov 2022 - Dec 2022
   - content: >
-      #### ACME Inc. 
+      #### Taif Children Hospital. 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      Created a healthcare dashboard analytics tool to monitor hospital KPIs in a dynamic and interactive way to track and analyze the patient statistics in real-time to increase the overall healthcare performance and patient satisfaction.
+
+    time: Mar 2022 - Aug 2022
   - content: >
-      #### LexCorp 
+      #### XENTRINO TECH LAB
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Our goal is to build intelligent robots to maximize the benefits of AI for more innovations and advancements in the Philippines.
+    time: Aug 2017 - Jan 2022
+    
+  - content: >
+      #### PCCW Teleservices (Business Intelligence)
+
+      Create an interactive visualization reports and dashboard for call trends, patterns and KPIs in order to produce a good insights in business decision-making. 
+    time: Jul 2015 - Jul 2016  
+    
+  - content: >
+      #### Del Monte Plantation (Engineering Maintenance)
+
+      Monitoring and analyzing data from the machine's performance actual and current condition of the equipment in operation to form predictions about future failures.
+    time: Jul 2012 - Mar 2014  

@@ -4,14 +4,22 @@ topTitle: My Skills
 content: >
   ## Why hire me for your next project?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  With specialized expertise in marketing and business analytics, hiring me for your next project ensures the extraction of actionable insights, optimization of strategies, 
+  accelerated growth through advanced analytics and deliver exceptional results for your business..
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: Data Analytics
+    percent: 95
+  - title: Social Media
+    percent: 88
+  - title: Marketing
+    percent: 90
+  - title: Animation & Motion Graphics Content
+    percent: 95
+  - title: SEO
+    percent: 80
+  - title: Graphics Design
     percent: 85
+  

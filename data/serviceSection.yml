@@ -4,42 +4,41 @@ topTitle: Working Area
 title: >
   ## Creative Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  By utilizing these services, businesses can enhance their marketing efforts, better understand their customers, and drive sustainable growth.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Data Analytics 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Harness advanced analytics to empower your business, utilizing key metrics, trends, and user behavior 
+      insights for success.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Sentiment Analysis 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Drive marketing excellence with customer feedback analysis. Extract insights from textual data, 
+      uncovering emotions and perceptions. 
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Video Marketing 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Produce compelling videos that convey brand messages, engage audiences, and achieve marketing 
+      goals effectively.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Custom Dashboard
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Customize the dashboard report with metrics, KPIs, and platform-specific data to align with business
+      goals and stakeholder interests.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Social Media 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Craft and execute social media marketing strategies across multiple platforms, delivering 
+      engaging and high-quality content.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### SEO
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Optimize your digital presence with SEO techniques that maximize visibility, attract organic traffic, 
+      and boost online performance.
     image: images/service/web.svg
