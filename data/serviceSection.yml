@@ -11,7 +11,7 @@ service:
 
       Harness advanced analytics to empower your business, utilizing key metrics, trends, and user behavior 
       insights for success.
-    image: images/service/ui-ux.svg
+    image: images/service/data-analytics.svg
   - content: >
       #### Sentiment Analysis 
 
@@ -23,7 +23,7 @@ service:
 
       Produce compelling videos that convey brand messages, engage audiences, and achieve marketing 
       goals effectively.
-    image: images/service/creative.svg
+    image: images/service/video-marketing.svg
   - content: >
       #### Custom Dashboard
 
@@ -31,11 +31,11 @@ service:
       goals and stakeholder interests.
     image: images/service/branding.svg
   - content: >
-      #### Social Media 
+      #### Digital Marketing 
 
       Craft and execute social media marketing strategies across multiple platforms, delivering 
       engaging and high-quality content.
-    image: images/service/ui-ux.svg
+    image: images/service/digital-marketing.svg
   - content: >
       #### SEO
 
