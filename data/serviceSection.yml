@@ -17,7 +17,7 @@ service:
 
       Drive marketing excellence with customer feedback analysis. Extract insights from textual data, 
       uncovering emotions and perceptions. 
-    image: images/service/web.svg
+    image: images/service/customer-feedback.svg
   - content: >
       #### Video Marketing 
 
@@ -29,7 +29,7 @@ service:
 
       Customize the dashboard report with metrics, KPIs, and platform-specific data to align with business
       goals and stakeholder interests.
-    image: images/service/branding.svg
+    image: images/service/dashboard.svg
   - content: >
       #### Digital Marketing 
 
@@ -37,8 +37,13 @@ service:
       engaging and high-quality content.
     image: images/service/digital-marketing.svg
   - content: >
+      #### Customer Segmentation
+
+       Categorizing customers based on shared characteristics to create focused marketing strategies and drive ROI.
+    image: images/service/segment.svg  
+  - content: >
       #### SEO
 
       Optimize your digital presence with SEO techniques that maximize visibility, attract organic traffic, 
       and boost online performance.
-    image: images/service/web.svg
+    image: images/service/seo.svg
