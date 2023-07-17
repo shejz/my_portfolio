@@ -1,5 +1,5 @@
 ---
-title: Case Study One
+title: Case Study Two
 date: 2020-07-13T12:49:27.000+06:00
 thumbnail: images/portfolio/data_analytics.gif
 service: Development, UX Design
