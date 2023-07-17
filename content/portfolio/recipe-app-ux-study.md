@@ -1,7 +1,7 @@
 ---
 title: Recipe App Ux Study
 date: 2020-08-12T18:19:35.000+06:00
-thumbnail: images/portfolio/data_analytico.gif
+thumbnail: images/portfolio/data_xplore.jpg
 service: UX Design, UX Research
 client: Clayton Coco
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
