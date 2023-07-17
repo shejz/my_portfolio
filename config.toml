@@ -2,7 +2,7 @@ baseURL = "https://shielajz.me/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
-title = "Portio"
+title = "Shiela's Portfolio"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -29,7 +29,7 @@ name = "Skills"
 url = "#skills"
 weight = 6
 [[menu.main]]
-name = "Blog"
+name = "Use Cases"
 url = "#blog"
 weight = 7
 [[menu.main]]

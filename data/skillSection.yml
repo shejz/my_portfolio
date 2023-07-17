@@ -12,14 +12,22 @@ image: images/skill/skill_image.jpg
 skill:
   - title: Data Analytics
     percent: 95
-  - title: Social Media
-    percent: 88
-  - title: Marketing
+  - title: Predictive Modeling
     percent: 90
-  - title: Animation & Motion Graphics Content
+  - title: Dashboard & Reports
     percent: 95
+  - title: Text Analysis
+    percent: 90
+  - title: Business Intelligence
+    percent: 90  
+  - title: Statistics
+    percent: 89   
+  - title: Database Management
+    percent: 88 
+  - title: Digital Marketing
+    percent: 90
   - title: SEO
-    percent: 80
-  - title: Graphics Design
     percent: 85
+  - title: Animation & Motion Graphics Content
+    percent: 90
   
