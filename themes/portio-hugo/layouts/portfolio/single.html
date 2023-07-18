@@ -55,13 +55,9 @@
           </div>
         </div>
         <div class="case-details-thumb mb-5">
-          <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
+          <a href="{{ .Params.demo }}"><img src="{{ .Params.thumbnail | absURL }}" alt="case-details" /></a>
         </div>
-        <div class="col-lg-10 offset-lg-1 text-center   ">
-          <p>
-            {{ .Params.demo }}
-          </p>
-        </div>
+        
       </div>
       
       <div class="col-lg-10 offset-lg-1 text-left">
