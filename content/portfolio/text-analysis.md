@@ -15,16 +15,10 @@ solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonu
 
 ---
 
-[View Demo](https://lalajz.shinyapps.io/textSentiment)
-
-
-
-
-
-
-
-
+> [View Demo](https://lalajz.shinyapps.io/textSentiment)
 ---
+
+
 ### Objectives
 Text analyzer tools empower businesses to unlock the valuable insights hidden within textual data. They provide a systematic and efficient approach to analyze, understand, and leverage text-based information for various purposes, such as market research, customer experience enhancement, brand management, and strategic decision-making.
 
