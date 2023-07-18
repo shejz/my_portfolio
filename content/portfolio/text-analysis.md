@@ -13,7 +13,10 @@ challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+
+---
 demo:[View Demo](https://lalajz.shinyapps.io/textSentiment)
+---
 
 ### Objectives
 Text analyzer tools empower businesses to unlock the valuable insights hidden within textual data. They provide a systematic and efficient approach to analyze, understand, and leverage text-based information for various purposes, such as market research, customer experience enhancement, brand management, and strategic decision-making.
