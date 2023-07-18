@@ -15,7 +15,7 @@ solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonu
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
 
 ---
-demo:[View Demo](https://lalajz.shinyapps.io/textSentiment)
+[View Demo](https://lalajz.shinyapps.io/textSentiment)
 ---
 
 ### Objectives
