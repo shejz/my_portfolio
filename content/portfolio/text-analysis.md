@@ -1,7 +1,7 @@
 ---
 title: "Text Analyzer"
 date: "2020-08-12T18:19:35.000+06:00"
-thumbnail: images/portfolio/analyze_text.gif(https://lalajz.shinyapps.io/textSentiment)
+thumbnail: images/portfolio/analyze_text.gif
 service: Writing, Copywriting, Sentiment Analysis, Network Analysis
 shortDescription: Text Analyzer is a web content analysis tool that provides extensive
   statistics about your content like the count of characters, words, sentences, paragraphs,
@@ -14,7 +14,10 @@ solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonu
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
 
 ---
+
 [View Demo](https://lalajz.shinyapps.io/textSentiment)
+
+
 ---
 
 ### Objectives
