@@ -58,12 +58,12 @@
           <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
         </div>
         
-        {{ .Content }}
       </div>
+        {{ .Content }}
     </div>
     <div class="row">
       <div class="col-lg-10 offset-lg-1">
-        <nav class="case-details-nav d-flex justify-content-between align-items-left">
+        <nav class="case-details-nav d-flex justify-content-between align-items-center">
           {{ if .PrevInSection }}
           <div class="previous d-flex align-items-center">
             <div class="icon mr-3">
