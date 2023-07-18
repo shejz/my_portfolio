@@ -56,10 +56,11 @@
         </div>
         <div class="case-details-thumb mb-5">
           <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
+          <p>
+            {{ .Params.Demo }}
+          </p>
         </div>
-        <p>
-          {{ .Params.Demo }}
-        </p>
+        
       </div>
       <div class="col-lg-10 offset-lg-1 text-left">
         {{ .Content }}
