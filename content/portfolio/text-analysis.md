@@ -1,6 +1,5 @@
 ---
 title: "Text Analyzer"
-date: "2020-08-12T18:19:35.000+06:00"
 thumbnail: images/portfolio/analyze_text.gif
 service: Writing, Copywriting, Sentiment Analysis, Network Analysis
 shortDescription: Text Analyzer is a web content analysis tool that provides extensive
@@ -16,6 +15,9 @@ demo: https://lalajz.shinyapps.io/textSentiment
 
 
 ---
+
+
+
 ### Objectives
 Text analyzer tools empower businesses to unlock the valuable insights hidden within textual data. They provide a systematic and efficient approach to analyze, understand, and leverage text-based information for various purposes, such as market research, customer experience enhancement, brand management, and strategic decision-making.
 
