@@ -4,7 +4,7 @@ topTitle: My Skills
 content: >
   ## Why hire me for your next project?
 
-  With specialized expertise in marketing and business analytics, hiring me for your next project ensures the extraction of actionable insights, optimization of strategies, 
+  With specialized expertise in data science and marketing, hiring me for your next project ensures the extraction of actionable insights, optimization of strategies, 
   accelerated growth through advanced analytics and deliver exceptional results for your business..
 
 image: images/skill/skill_image.jpg
@@ -16,18 +16,18 @@ skill:
     percent: 90
   - title: Dashboard & Reports
     percent: 95
-  - title: Text Analysis
+  - title: Textual Analysis
     percent: 90
-  - title: Business Intelligence
-    percent: 90  
+  - title: Data Science
+    percent: 95  
   - title: Statistics
-    percent: 89   
+    percent: 90   
   - title: Database Management
     percent: 88 
   - title: Digital Marketing
     percent: 90
   - title: SEO
     percent: 85
-  - title: Animation & Motion Graphics Content
+  - title: Animation & Motion Graphics
     percent: 90
   

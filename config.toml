@@ -29,7 +29,7 @@ name = "Skills"
 url = "#skills"
 weight = 6
 [[menu.main]]
-name = "Use Cases"
+name = "Blog"
 url = "#blog"
 weight = 7
 [[menu.main]]
@@ -43,7 +43,7 @@ name = "Sentiment and Behavioral Analysis"
 url = "#"
 weight = 1
 [[menu.sitemap]]
-name = "Conversational System"
+name = "Customer Segmentation"
 url = "#"
 weight = 2
 [[menu.sitemap]]
