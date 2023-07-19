@@ -1,7 +1,9 @@
 ---
 title: Sentiment Analysis
+date:
 thumbnail: images/portfolio/text_senti.gif
 service: Textual Analysis, Natural Language Processing(NLP), Customer Service, Emotion Analysis
+client:
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

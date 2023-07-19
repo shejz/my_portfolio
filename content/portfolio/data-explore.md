@@ -1,7 +1,9 @@
 ---
 title: Data Explorer
+date:
 thumbnail: images/portfolio/data_xplore.jpg
 service: Exploratory Data Analysis, Statistics, Regression, Pivot Table, Chart
+cleint:
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

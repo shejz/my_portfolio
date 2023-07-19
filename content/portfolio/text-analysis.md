@@ -1,7 +1,9 @@
 ---
 title: "Text Analyzer"
+date:
 thumbnail: images/portfolio/analyze_text.gif
 service: Writing, Copywriting, Sentiment Analysis, Network Analysis
+client:
 shortDescription: Text Analyzer is a web content analysis tool that provides extensive
   statistics about your content like the count of characters, words, sentences, paragraphs,
   spaces, punctuations, the frequency of phrases and words.

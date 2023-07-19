@@ -1,7 +1,9 @@
 ---
 title: Product Dashboard
+date:
 thumbnail: images/portfolio/productlytics.gif
 service: Revenue Forecast, Price Prediction, Customer Behavior & Segmentation, Metrics and KPIs
+client:
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
