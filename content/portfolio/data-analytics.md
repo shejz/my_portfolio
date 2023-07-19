@@ -1,7 +1,9 @@
 ---
 title: Statistical Data Analyzer
+date:
 thumbnail: images/portfolio/data_analytics.gif
 service: Statistics, Exploratory Data Analysis, PCA, Clustering, K-Means
+client:
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
@@ -12,7 +14,8 @@ challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-demo:https://shejz.shinyapps.io/datos_analytico
+demo: https://shejz.shinyapps.io/datos_analytico
+
 
 
 
