@@ -1,9 +1,14 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+date: "2020-12-01T21:13:14-05:00"
+categories: R
+tags:
+- R Markdown
+- plot
+- regression
+featureImage: "images/allpost/allPost-7.jpg"
+postImage: "images/single-blog/feature-image.jpg"
 ---
 
 
