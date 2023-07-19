@@ -7,8 +7,8 @@ tags:
 - R Markdown
 - plot
 - regression
-featureImage: "images/allpost/allPost-7.jpg"
-postImage: "images/single-blog/feature-image.jpg"
+featureImage: images/allpost/allPost-7.jpg
+postImage: images/single-blog/feature-image.jpg
 ---
 
 
