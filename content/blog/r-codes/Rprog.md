@@ -35,11 +35,9 @@ summary(cars)
 
 You can also embed plots, for example:
 
-<img src="blog/r-codes/Rprog_files/figure-html/pressure-1.png"  width="672"/>
+<img src="blog/r-codes/Rprog_files/figure-html/pressure-1.png"  width="300"/>
 
-![charts](https://shielaj.netlify.app/blog/r-codes/Rprog_files/figure-html/pressure-1.png)
 
-![charts][blog/r-codes/Rprog_files/figure-html/pressure-1.png]
 
 
 {{< figure src="blog/r-codes/Rprog_files/figure-html/pressure-1.png"  width="672" >}}
