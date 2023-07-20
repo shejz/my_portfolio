@@ -12,8 +12,6 @@ solution: Sentiment analysis, alternatively referred to as opinion mining, a nat
 
 ---
 
-
-
 ### Objectives
 Customer sentiment refers to the different emotions that your customers go through, positive or negative while engaging with your brand.
 
