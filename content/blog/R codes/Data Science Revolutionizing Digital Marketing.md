@@ -36,7 +36,7 @@ summary(cars)
 You can also embed plots, for example:
 
 <div class="figure">
-<img src="{{< blogdown/postref >}}static/blog/R codes/Data Science Revolutionizing Digital Marketing_files/figure-html/pressure-1.png" alt="A fancy pie chart." width="672" />
+<img src="{{< blogdown/postref >}}\static\blog\R codes\Data Science Revolutionizing Digital Marketing_files\figure-html\pressure-1.png" alt="A fancy pie chart." width="672" />
 <p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
 </div>
 
