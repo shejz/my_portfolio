@@ -1,11 +1,11 @@
 ---
-title: "R codes"
+title: "R pogramming"
 author: "Lala Jimenez"
-date: 2023-07-20T12:49:27+06:00
-featureImage: images/allpost/allPost-2.jpg
+date: "2023-07-20"
+featureImage: images/allpost/allPost-8.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: R
-categories: Marketing
+categories: Programming
 ---
 
 
@@ -35,6 +35,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-<img src="/blog/r codes/rcodes_files/figure-html/pressure-1.png" width="672" />
+<img src="/blog/r codes/Rprog_files/figure-html/pressure-1.png" width="672" />
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
