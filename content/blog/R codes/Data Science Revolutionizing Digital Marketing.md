@@ -35,6 +35,11 @@ summary(cars)
 
 You can also embed plots, for example:
 
-<img src="static/blog/R codes/Data Science Revolutionizing Digital Marketing_files/figure-html/pressure-1.png" width="672" />
+<div class="figure">
+<img src="{{< blogdown/postref >}}static/blog/R codes/Data Science Revolutionizing Digital Marketing_files/figure-html/pressure-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
+</div>
+
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
