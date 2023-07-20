@@ -2,7 +2,10 @@
 title: "R Codes"
 author: "Lala Jimenez"
 date: "2023-07-19"
-output: html_document
+featureImage: images/allpost/allPost-7.jpg
+postImage: images/single-blog/feature-image.jpg
+tags: Data science
+categories: marketing
 ---
 
 
