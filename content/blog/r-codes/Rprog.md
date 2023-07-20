@@ -40,7 +40,7 @@ You can also embed plots, for example:
 
 
 
-![my image](https://shielaj.netlify.app/blog/r-codes/Rprog_files/figure-html/pressure-1.png){:width=”50%” height=”auto”}
+![Resize](https://shielaj.netlify.app/blog/r-codes/Rprog_files/figure-html/pressure-1.png?width=500px)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
