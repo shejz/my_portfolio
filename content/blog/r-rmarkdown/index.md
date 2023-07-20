@@ -39,6 +39,9 @@ fit
 
 # Including Plots
 
+<img src="{{< blogdown/postref >}}index_files/figure-html/pressure-1.png" width="480" />
+
+
 You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:
 
 
