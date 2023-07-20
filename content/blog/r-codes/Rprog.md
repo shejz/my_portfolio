@@ -35,13 +35,13 @@ summary(cars)
 
 You can also embed plots, for example:
 
+<img src="blog/r-codes/Rprog_files/figure-html/pressure-1.png"  width="672"/>
+
+![charts](https://shielaj.netlify.app/blog/r-codes/Rprog_files/figure-html/pressure-1.png)
+
+![charts][blog/r-codes/Rprog_files/figure-html/pressure-1.png]
 
 
-![charts](https://shielaj.netlify.app/blog/r codes/Rprog_files/figure-html/pressure-1.png)
-
-![charts][blog/r codes/Rprog_files/figure-html/pressure-1.png]
-
-
-{{< figure src="blog/r codes/Rprog_files/figure-html/pressure-1.png"  width="672" >}}
+{{< figure src="blog/r-codes/Rprog_files/figure-html/pressure-1.png"  width="672" >}}
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
