@@ -37,4 +37,14 @@ You can also embed plots, for example:
 
 <img src="https://shielaj.netlify.app/blog/r codes/Rprog_files/figure-html/pressure-1.png" width="672" />
 
+![chart]("https://shielaj.netlify.app/blog/r codes/Rprog_files/figure-html/pressure-1.png")
+
+![chart][blog/r codes/Rprog_files/figure-html/pressure-1.png]
+
+{{< blogsection image="blog/r codes/Rprog_files/figure-html/pressure-1.png" title="Pressure plot" >}}
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+
+{{< /blogsection >}}
+
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
