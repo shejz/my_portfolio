@@ -1,5 +1,5 @@
 ---
-title: "try"
+title: "R Codes"
 author: "Lala Jimenez"
 date: "2023-07-19"
 output: html_document
@@ -28,6 +28,21 @@ summary(cars)
 ##  Max.   :25.0   Max.   :120.00
 ```
 
+```r
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+```
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932
+```
+
 ## Including Plots
 
 You can also embed plots, for example:
@@ -35,3 +50,25 @@ You can also embed plots, for example:
 <img src="/blog/2020-12-01-r-rmarkdown/try_files/figure-html/pressure-1.png" width="672" />
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+# Including Plots
+
+You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:
+
+
+```r
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
+
+<div class="figure">
+<img src="/blog/2020-12-01-r-rmarkdown/try_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
+</div>
+
