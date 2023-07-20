@@ -41,4 +41,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 
 
-![charts](https://shielaj.netlify.app/blog/r-codes/Rprog_files/figure-html/pressure-1.png "{width='350'}")
+![charts](https://shielaj.netlify.app/blog/r-codes/Rprog_files/figure-html/pressure-1.png "{width='50'}")
