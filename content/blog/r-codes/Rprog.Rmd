@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, out.width="300px", dpi=120)
 ```
 
 ## R Markdown
@@ -23,7 +23,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE, fig.height=4, fig.width=7}
+```{r pressure, echo=FALSE, fig.height=3, fig.width=5}
 plot(pressure)
 ```
 
