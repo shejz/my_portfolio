@@ -7,7 +7,7 @@ client:
 shortDescription: Statistical data analyzer tools with features like Principal Component Analysis (PCA), Clustering, and K-means offer significant advantages in data analysis and decision-making.
 challenge: Marketers face a diverse range of challenges in the dynamic world of marketing. Key challenges include handling vast volumes of data, accurately segmenting the target audience, staying ahead in a competitive landscape, adapting to changing consumer behavior, and measuring the ROI effectively.
 solution: However, statistical data analyzer tools, equipped with advanced features like **Principal Component Analysis (PCA)**, **Clustering**, and **K-means**, provide powerful solutions. These tools simplify complex datasets through dimensionality reduction using PCA, aid in **effective audience segmentation** with Clustering, and refine **customer understanding** with the K-means algorithm. By harnessing these sophisticated statistical tools, marketers can **optimize strategies**, **personalize campaigns**, and **enhance customer experiences**, overcoming challenges and gaining a competitive edge in the dynamic market landscape.
-demo:https://shejz.shinyapps.io/datos_analytico/
+demo: https://shejz.shinyapps.io/datos_analytico/
 
 
 ---

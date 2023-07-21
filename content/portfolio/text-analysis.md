@@ -7,7 +7,7 @@ client:
 shortDescription: Text Analyzer is a web content text analysis tool that provides useful statistics about your content like find most frequent phrases and words, number of words, social network of words. Analyze your text files to identify sentiment, brands, topics and trends.
 challenge: Amidst the vast volumes of text data that businesses handle daily, lies a potential goldmine in the form of unstructured text documents. Whether you work as a writer, editor, or translator, there are moments when analyzing your own writing becomes essential. Acquiring summary statistics about your text can aid in comprehending its complexity and readability, providing valuable insights into your writing endeavors.
 solution: Utilizing text analysis techniques, businesses can dissect this data into sentences, phrases, keywords, and sentiments, unearthing valuable insights. This approach involves analyzing, interpreting, and identifying repeated words and phrases within a paragraph, leading to the discovery of meaningful patterns across diverse text sources. Additionally, the text analysis tool acts as a word counter, aiding users in enhancing their writing style and optimizing content for SEO. It helps identify keyword usage and avoids repetition that may hinder page ranking, ensuring a more impactful online presence.
-demo:https://lalajz.shinyapps.io/textSentiment/
+demo: https://lalajz.shinyapps.io/textSentiment/
 
 
 ---
