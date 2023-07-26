@@ -28,31 +28,10 @@ Version 1
 
 
 
-Version 2
-<img src="images/portfolio/dashboard.mp4" type="video/mp4"/>
-
-
-Version 3
-<iframe src="https://player.vimeo.com/video/839879872?h=daf74b0d3b&autoplay=1&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-
-Version 4
-
-<div style="padding:53.44% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/839879872?h=daf74b0d3b&autoplay=1&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{< vimeo 839879872 >}}
 
 
 
-Version 5
-
-<video width="320" height="240" controls>
-  <source src="dashboard.mp4" type="video/mp4">
-</video>
-
-
-Version 6
-
-<video controls autosize: true>
-  <source src="dashboard.mp4" type="video/mp4">
-</video>
+{{< vimeo id="839879872" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
 
 
