@@ -19,9 +19,9 @@ In today's dynamic business landscape, call centers play a pivotal role in deliv
 
 Here are the metrics that you can track using this dashboard:
 
-A Call Status Dashboard monitors the status of key metrics like call **adandonment levels**, your currest **service level**, and your ability to handle current call volume.
+A Call Status Dashboard monitors the status of key metrics like call adandonment levels, your currest **service level**, and your ability to handle current call volume.
 
-This includes total call, average answer speed, abandon rate, average calls/minute, call/time interval, calls answered, abandon rate, overall monthly call KPI (chart), SLA.
+This includes **total call**, **average answer speed**, **abandon rate**, **average calls/minute**, **call/time interval**, **calls answered**, overall **monthly call KPI** (chart), **SLA**.
 
 
 **Relevant KPIs and metrics**
