@@ -11,27 +11,17 @@ challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-demo: 
+demo: https://vimeo.com/839879872
 
 
 
 ---
 
-
-
 ### Objectives
 Reduce handling time, meet service level agreements, and increase customer satisfaction.
 
 
-Version 1
-![Caption](images/portfolio/dashboard.mp4)
 
 
-
-{{< vimeo 839879872 >}}
-
-
-
-{{< vimeo id="839879872" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
 
 
