@@ -2,7 +2,7 @@
 title: Emergency Room(ER) Dashboard Reports
 date:
 thumbnail: images/portfolio/dash_v2.jpg
-service:  Healthcare, KPIs, Excel Macros VBA, Pivot Table, Dashboard
+service:  Healthcare, KPIs, Excel Macros VBA, Pivot Table, Slicer
 client:
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
