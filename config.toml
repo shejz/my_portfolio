@@ -72,9 +72,9 @@ openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(63) 936 7766 932"
 
 [params.map]
-APIkey = "vOFlx6tTGZlFBiW4VEq4"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyBRwzPAmovQtF7Nu_yzoj5P9MDXlGYWv0c"
+latitude = "14.552035331726074"
+longitude = "121.06885528564453"
 pinImage = "images/pin.png"
 
 # Social icons
