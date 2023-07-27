@@ -3,11 +3,14 @@ enable: true
 topTitle: My Resume
 title: >
   ## My Expertises
-
-  With expertise in digital marketing and data analytics. I possess a strong command of analytics tools and techniques. By diving deep into data, 
-  I uncover valuable insights that fuel effective marketing strategies, 
   
-  improve customer targeting, and deliver tangible business outcomes.
+  With expertise lies at the intersection of data science analytics, algorithms, and marketing strategies. I am passionate about 
+  using data-driven insights to optimize marketing campaigns, improve customer experiences, and drive business growth in the digital realm
+  By harnessing the power of data science techniques such as customer segmentation, sentiment analysis, and predictive modeling, 
+  I help businesses understand consumer behavior, tailor their messages, and make data-informed decisions. 
+  My goal is to empower digital marketers with actionable insights that enable them to stay ahead in a competitive and ever-evolving landscape, 
+  delivering impactful and personalized marketing strategies to create lasting connections with their audiences.
+  
 tab1Name: Data Competitions
 tab2Name: Experiences
 tab1Target: education
