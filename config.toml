@@ -68,7 +68,7 @@ logo = "images/site-navigation/logo.svg"
 [params.address]
 address = "Pateros Sto Rosario Metro Manila"
 email = "shejz.projects@gmail.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+openingHours = "Depends on client needs"
 phone = "+(63) 936 7766 932"
 
 [params.map]
