@@ -11,5 +11,5 @@ content: >
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
-button2Target: contact
+button2Target: https://shejz.github.io/businesscience/
 image: images/about/about-img.jpg
