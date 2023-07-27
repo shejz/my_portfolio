@@ -22,7 +22,9 @@ The idea would be for a business to use this learning to increase engagement by 
 
 #### Features:
 
-- Product Recommendation analyzes purchase patterns and identifies associations between products frequently purchased together. By leveraging techniques like collaborative filtering or association rules, the dashboard generates personalized recommendations for customers, boosting cross-selling and upselling opportunities. This not only enhances the customer experience but also increases average order value and customer loyalty.
+A product recommendation is basically a filtering system that seeks to predict and show the items that a user would like to purchase. 
+
+- Product Recommendation analyzes purchase patterns and identifies associations between products frequently purchased together. By leveraging techniques like **collaborative filtering** or **association rules**, the dashboard generates personalized recommendations for customers, boosting cross-selling and upselling opportunities. This not only enhances the customer experience but also increases average order value and customer loyalty.
 - Customer Segmentation  segments the customer base into distinct groups based on various characteristics such as demographics, purchasing behavior, or preferences. By understanding the unique needs and preferences of different customer segments, businesses can drive targeted marketing initiatives, improve customer engagement, and maximize conversion rates.
 
 

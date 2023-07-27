@@ -13,6 +13,16 @@ demo: https://shielaj.shinyapps.io/sentext/
 ---
 
 ### Objectives
-Customer sentiment refers to the different emotions that your customers go through, positive or negative while engaging with your brand.
 
-Sentiment analysis metrics can provide you with eye-opening insights, which in turn can help you offer more of what makes your customers happy.  Through customer sentiment analysis, you can improve your customer satisfaction index, customer loyalty, and customer lifetime value multiple folds, and thus maximize the profits for your business.
+It is essential to build a positive reputation for your business or brand. The way your customers initially perceive your **social media channels** or **website** can profoundly impact their overall view of your company, even before they engage with your services. This perception is often shaped by the reviews and responses provided by others.
+
+One effective method to ensure you have control over your reputation is by utilizing **sentiment analysis** to tap into your **clients' emotions**. While this task can be performed manually, **employing machine learning algorithms greatly accelerates and improves the process of analyzing relevant data**.
+
+
+Individual words can be assigned specific values **(negative, neutral, or positive)** to generate a score for each social media post, considering the reactions in the comments section. This concept can also be extended to email communication, Google reviews, and even phone conversations.
+
+By doing so, you can **identify which products, services, or social media marketing strategies resonate positively with your potential customers**. Additionally, **it helps pinpoint any issues in customer service that may be causing dissatisfaction**.
+
+
+
+- Sentiment analysis metrics can provide you with eye-opening insights, which in turn can help you offer more of what makes your customers happy.  Through customer sentiment analysis, you can improve your **customer satisfaction** index, **customer loyalty**, and customer lifetime value multiple folds, and thus **maximize the profits for your business**.
