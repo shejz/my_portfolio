@@ -6,7 +6,7 @@ service: Segmentation, Marketing, Attrition/Churn, Anomaly Detection, Social Net
 client:
 shortDescription: Highlight of some key data science use cases in marketing
 challenge:  In the ever-evolving digital landscape, companies face numerous challenges, such as understanding customer behavior, optimizing marketing efforts, and delivering personalized experiences.
-solution: Data science empowers marketers to make informed decisions by extracting valuable information from vast datasets, identifying patterns, and predicting customer behavior. With customer segmentation, sentiment analysis, and recommender systems, marketers can tailor their messages to specific audience segments, create more relevant content, and provide personalized product recommendations. Predictive modeling enables the anticipation of customer churn, allowing for proactive retention strategies. 
+solution: Data science empowers marketers to make informed decisions by extracting valuable information from vast datasets, identifying patterns, and predicting customer behavior. 
 demo: https://shejz.github.io/businesscience
 
 
