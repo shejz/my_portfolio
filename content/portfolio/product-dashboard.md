@@ -17,20 +17,21 @@ demo: https://shielaj.shinyapps.io/product_analytics
 ### Objectives
 A product analytics dashboard helps you visualize customer behavior, revenue activity, and marketing impact so you can make informed decisions on how to improve product engagement.
 
-#### Forecasting revenue 
+
+##### Forecasting revenue 
 Enable marketers to analyze historical sales data, customer behavior, market trends, and other relevant factors to predict future revenue accurately.
 
 Additionally, revenue forecasting enables marketers to track the effectiveness of their marketing strategies. **By comparing actual revenue with forecasted revenue**, they can assess the success of their marketing initiatives and make data-driven decisions to fine-tune their approaches for maximum impact.
 
 
-#### Price prediction 
+##### Price prediction 
 Predictive pricing models enable marketers to adjust prices dynamically in response to changes in market demand and competitor actions. This agility ensures that prices are optimized to capitalize on opportunities and remain attractive to customers, ultimately leading to increased sales and revenue.
 
 By **optimizing pricing** through data science, marketers can also **improve their return on investment (ROI)**. When prices are set optimally, marketing efforts become more cost-effective, as higher-priced products can generate higher margins, while lower-priced items may attract more sales volume. With an **optimized pricing strategy**, marketers can allocate resources more efficiently and focus on campaigns that deliver the best ROI.
 
 Furthermore, accurate price prediction enables marketers to avoid overpricing or underpricing products, preventing potential loss of customers due to high prices or leaving money on the table with low prices. This balance **enhances customer satisfaction** and **loyalty**, leading to **increased customer retention**.
 
-#### Customer segmentation 
+##### Customer segmentation 
 
 Using data science for customer segmentation can prove immensely beneficial for marketers aiming to increase revenue and optimize their return on investment (ROI).
 
