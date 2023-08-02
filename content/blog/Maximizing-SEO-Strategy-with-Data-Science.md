@@ -1,7 +1,7 @@
 ---
 title: "Maximizing SEO Strategy with Data Science"
 date: 2023-07-13T15:06:26+06:00
-featureImage: images/allpost/seo_cover.jpg
+featureImage: images/allpost/seo_fcover.jpg
 postImage: images/single-blog/seo.jpg
 tags: data science, SEO
 categories: blog
