@@ -42,7 +42,7 @@ Clustering exemplifies unsupervised machine learning, where the algorithm is tra
 By employing clustering, businesses can identify groups of customers with similar traits, which can then inform the segmentation process. This method allows marketers to create more precise and effective customer segments, enhancing the overall accuracy and relevance of their marketing strategies.
 
 
-![targets](/images/single-blog/clustering.jpg)
+![targets](/images/single-blog/clustering.jpg?width=300px)
 
 
 Above, we can see how the dataset has been organized into clusters. We can observe an effective means of identifying customer segments that exhibit certain behaviors, such as a higher likelihood to purchase a specific product or a higher probability of churning. This valuable information can serve as a basis for informing predictive modeling efforts.
