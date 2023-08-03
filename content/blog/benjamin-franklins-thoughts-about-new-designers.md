@@ -54,12 +54,7 @@ Even well-established companies can experience failures. To avoid such pitfalls,
 
 
 ##### 7. Perform competitor analysis
-
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
-
 Vigilantly monitoring your competitors is a prudent practice. Regardless of your current success and distinctiveness, others may endeavor to surpass you and excel.
-
-{{< /blogsection >}}
 
 Fortunately, numerous online tools facilitate competitor analysis. One such tool is SEMrush, which enables you to gain insights into your competitors' tactics for acquiring qualified leads. Leveraging this information can be advantageous for your own strategic advantage.
 
@@ -86,6 +81,8 @@ For example, utilizing a **"Coming soon"** page allows you to conduct market res
 
 
 
-### Conclusion:
-The applications of data analytics extend far beyond basic data analysis, particularly for advanced analytics projects. The primary focus lies in the initial stages of data collection, integration, and preparation, followed by the development, testing, and refinement of analytical models to ensure reliable insights. Analytics teams often include data engineers alongside data scientists and analysts, as they play a vital role in constructing data pipelines and assisting in data set preparation for analysis.
+{{< blogsection image="images/single-blog/blog-img.jpg" title="Conclusion" >}}
+The applications of data analytics extend far beyond basic data analysis, particularly for advanced analytics projects. The primary focus lies in the initial stages of data collection, integration, and preparation, followed by the development, testing, and refinement of analytical models to ensure reliable insights. 
+{{< /blogsection >}}
+Analytics teams often include data engineers alongside data scientists and analysts, as they play a vital role in constructing data pipelines and assisting in data set preparation for analysis.
 
