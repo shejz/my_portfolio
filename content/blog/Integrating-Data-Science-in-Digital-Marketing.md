@@ -1,7 +1,7 @@
 ---
 title: "Integrating Data Science in Digital Marketing"
 date: 2023-02-13T12:49:27+06:00
-featureImage: images/single-blog/dm.jpg
+featureImage: images/allpost/dm.jpg
 postImage: images/single-blog/ds.jpg
 tags: data science, digital marketing
 categories: blog
