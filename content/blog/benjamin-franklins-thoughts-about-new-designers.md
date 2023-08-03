@@ -20,7 +20,7 @@ This article delves into the role of data analytics in lead generation and highl
 ##### 1. Understanding your audience's behavior
 While most businesses possess a general idea of their target audience, having mere notions is inadequate for substantial growth. To achieve significant business expansion, you must gain absolute certainty about your audience and thoroughly understand their behavior when they visit your website.
 
-![targets](/images/single-blog/user_behavior,jpg)
+![targets](/images/single-blog/user_behavior.jpg)
 
 Examining the right metrics can reveal valuable insights. For example, to gauge the ease with which users find information on your website, monitor the time they spend on specific webpages. If they quickly exit upon page load, it indicates that they likely didn't find what they sought.
 
